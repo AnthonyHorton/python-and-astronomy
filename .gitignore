@@ -1,3 +1,9 @@
+# Emacs backup files
+*~
+
+# LaTeX source (output in one example)
+*.tex
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
